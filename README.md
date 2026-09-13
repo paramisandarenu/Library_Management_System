@@ -14,6 +14,9 @@ Second Year Academic Project
 
 ## Features
 
+- Library Login
+- Library Staff Register
+- Dashboard
 - Book management
 - Member management
 - Borrowing and returning books
